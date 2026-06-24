@@ -112,6 +112,10 @@
 3. Şifreler **asla** plain text loglanmamalı veya response'ta dönülmemeli (`password` alanını response'tan exclude et).
 4. Middleware sırası önemli: `cors` → `cookie-parser` → `express.json()` → rate limit → auth → route.
 
+### Öğrenmeniz Gereken Teknolojiler
+
+1. Redis (https://redis.io/)
+2. Postman (https://www.postman.com/)
 
 ### Gerekli Kütüphaneler
 

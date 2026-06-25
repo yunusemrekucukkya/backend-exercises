@@ -1,3 +1,5 @@
+https://jsonplaceholder.typicode.com/
+
 ### 🟢KOLAY — Doğrudan Proxy + Basit Filtre
 
 **`GET /api/posts`**
